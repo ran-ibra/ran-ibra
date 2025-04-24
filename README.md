@@ -1,19 +1,15 @@
+<img width="250" align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif"> <h3 align="center"> Welcome to Rana Ibrahim's profile! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> </h3> <p align="center"> <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Computer%20Science%20Graduate;Passionate%20about%20AI%20%26%20Full-Stack%20Development;Always%20learning%20new%20things!&font=Fira%20Code&center=true&width=500&height=45&color=f75c7e&vCenter=true&size=22"></a> </p>
+👩‍🎓 I'm Rana Ibrahim, a CS graduate with a growing passion for artificial intelligence and web development.
 
-<img width="250" align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
+🤖 I enjoy solving real-world problems using data science, machine learning, and backend frameworks.
 
-<h3 align="center">
-  Welcome to Rana Ibrahim's profile!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h3>
+💡 I believe in learning by doing — from algorithms and model pipelines to full-stack web apps.
 
-<!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Full-stack%20web%20developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
-</p> 
+💬 I love talking about Python, machine learning, Django, SQL, and clean, maintainable code.
 
-- 👨‍💻 As a CS student, I'm constantly learning and exploring new technologies to improve my skills.
-- 💬 Ask me about my experience with JavaScript, c++, and python, or anything related to ML.
+🧠 Currently expanding my knowledge in deep learning and software engineering best practices.
 
+✨ I strive to build tech that is both impactful and meaningful.
 
 
 ### Connect with Me :
