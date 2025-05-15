@@ -14,7 +14,7 @@
 
 ### Connect with Me :
 
-<a href="linkedin.com/in/rana-ibrahim-16a316222" target=""></a>
+<a href="linkedin.com/in/rana-ibrahim-16a316222" target="linkedin.com/in/rana-ibrahim-16a316222"></a>
 
 ### 🛠 &nbsp;Tech Stack
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
